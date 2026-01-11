@@ -2,7 +2,11 @@
 
 LiveMeet is a modern, real-time video calling application built with the **MERN** stack (minus Mongo unless you add it later) + **WebRTC** and **Socket.io**. It features a clean glassmorphism UI and instant peer-to-peer connection.
 
-## 🚀 Features
+## � Live Demo
+-   **Frontend (App)**: [https://livemeet-client-bbe4ch108-sumitchahar317s-projects.vercel.app](https://livemeet-client-bbe4ch108-sumitchahar317s-projects.vercel.app)
+-   **Backend (API)**: [https://livemeet-w3if.onrender.com](https://livemeet-w3if.onrender.com)
+
+## �🚀 Features
 
 -   **Video & Audio**: High-quality real-time communication.
 -   **No Login Required**: Just enter an email and room ID to join.
